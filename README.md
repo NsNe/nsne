@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![NsNe's GitHub stats](https://github-readme-stats.vercel.app/api?username=nsne&theme=onedark)
+![NsNe's GitHub stats](https://github-readme-stats.vercel.app/api?username=nsne&theme=onedark) 
 
 🔭 个人简介
 
@@ -36,5 +36,10 @@ Here are some ideas to get you started:
  📫 联系我
  
  15527632169@163.com
+ 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nsne&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
  
  
