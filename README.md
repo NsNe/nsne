@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 * 6年工作中，前端技术栈主要使用 `react`,了解 `vue` 与 `angularjs` 
 * 对 `python`，`node`，`linux` 后端及运维略有了解（曾经在绿盟写过一段时间 `shell`）
 * 喜欢的运动是篮球，不过近几年小肚子越来越大，要减肥了
-* 个人[blog](https://segmentfault.com/u/nsne) （早期是用 `hexo`）
+* 个人[blog](https://segmentfault.com/u/nsne) （早期用 [`hexo`](https://nsne.github.io/)）
 
  🌱 正在做的事
  
